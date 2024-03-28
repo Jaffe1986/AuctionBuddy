@@ -1,10 +1,10 @@
 # AuctionBuddy
 Notice: This project is an individual effort, and it's currently under active development. More features will be introduced and existing functionalities refined over time. Your feedback and suggestions are always welcome!
 
-Overview
+Overview:
 This Bidding System is a Python-based application designed to manage live auction sessions, track bids, and facilitate post-auction processes like reporting and planning deliveries. It combines a straightforward console interface with file-based data management, making it accessible for both small-scale auction events and individual use. The project aims to simplify the complexities involved in auction management by providing a comprehensive toolkit for session management, data persistence, contact management, and delivery scheduling.
 
-Features
+Features:
 Session Management: Create and manage live bidding sessions, including adding, modifying, and removing bids in real time.
 Data Persistence: Save session data into CSV files for permanent record-keeping and future reference.
 Dynamic Reporting: Generate detailed reports summarizing bidder activity, including total bids and items won, in a .docx format suitable for printing or electronic distribution.
