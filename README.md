@@ -19,15 +19,15 @@ tkinter for GUI elements like file dialog
 Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/Jaffe1986/AuctionBuddy.git
+`git clone https://github.com/Jaffe1986/AuctionBuddy.git`
 
 Navigate to the cloned directory:
 
-cd AuctionBuddy
+`cd AuctionBuddy`
 
 Install the required Python packages:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Usage
 Run the main.py script from the terminal to start the application:
