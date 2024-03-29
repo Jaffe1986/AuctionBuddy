@@ -31,7 +31,7 @@ class BidSession:
         self.session_name = date.today()
         self.bids = []
 
-    # This can be commented out if replaced with gui, keep for testing purposes
+    # This is a test session menu that can be customized to test class objects outside the main body
     def run_session(self):
         while True:
             print("1: Add a bid")
